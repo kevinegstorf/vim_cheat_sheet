@@ -1,4 +1,4 @@
-#Vim Cheat sheet
+#Vim Cheat Sheet
 
 opening file using vim
 
