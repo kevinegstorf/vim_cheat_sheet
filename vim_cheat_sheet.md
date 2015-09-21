@@ -6,7 +6,7 @@ opening file using vim
 $ vim example.rb
 ```
 
-for editig in a vim file press ```i```
+for editing in a vim file press ```i```
 
 saving a vim file after using ```i``` press ```esc```
 to save and quit use command
